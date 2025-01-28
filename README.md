@@ -45,7 +45,7 @@ Sou um entusiasta da área de dados com diversas certificações em Python, SQL,
 
 ## 👨🏻‍💻 Meu Portfólio
 
-![Meu Portfólio](https://img.shields.io/badge/Portfolio-Click%20Here-6B9481?style=for-the-badge&logo=github)
+[![Meu Portfólio](https://img.shields.io/badge/Portfolio-Click%20Here-6B9481?style=for-the-badge&logo=github)](https://igor-vignola.github.io/)
 
 <br>
 

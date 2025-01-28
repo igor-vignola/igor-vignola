@@ -1,35 +1,57 @@
-<h2>Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-<p>🧑🏻‍💻 Meu nome é Igor Vignola. 🧑🏻‍💻</p>
-<div style="display: inline_block"  >
- 
-<p> - 📊 Sou apaixonado pela área de dados, mais especificamente em Análise de Dados. </p>
-<p> - 🎯 Estudo programação desde 2021 e estou em busca do meu primeiro emprego. </p>
-  
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=155839&height=120&section=header"/>
 
-<h4>--> Minhas Hard Skills:</h4>
-<div align="center">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+<h1 align="center">Olá 👋, Me chamo Igor Vignola</h1>
+<h3 align="center"><em>Data Analyst</em> | <em>Data Science Student at FIAP</em></h3>
 
-<h4>--> Minhas Soft Skills:</h4>
-<p>• Comprometimento</p>
-<p>• Organização</p>
-<p>• Resiliência</p>
-<p>• Trabalho em equipe</p>
-<p>• Paciência</p>
+---
 
-  
-<h4>--> Meu linkedin:</h4>
-<p>
-    <a href="https://www.linkedin.com/in/igor-vignola/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/anap-dossantos/">
-    </a>
-</p>
+<br>
+
+## 📌 Quem sou eu?
+
+Sou um entusiasta da área de dados com diversas certificações em Python, SQL, Power BI e Excel. Atualmente, estou me especializando em Ciência de Dados pela FIAP e buscando aplicar meus conhecimentos em projetos práticos
+
+<br>
+
+## 🛠 Tecnologias & Ferramentas  
+
+✅ **Ciência de Dados**  
+- `Python`
+- `Pandas`
+- `Matplotlib`
+- `Seaborn`
+- `SQL`
+- `Power BI`
+- `Excel`
+- `Git & Github`
+
+<br>
+
+## 🏆 Certificações e Cursos  
+
+✔ **Meta Data Analyst Professional Certificate** ( Coursera )  
+✔ **Curso Técnico em Ciência de Dados** ( CEDUP )  
+✔ **Certrificado de Inglês Avançado** ( Wizard )  
+✔ **Desenvolvedor Backend - Python** ( Entra21 )  
+✔ **Formação Power BI** ( Alura )   
+
+<br>
+
+## 🌟 Projeto em Destaque
+
+[![TCC - Curso Técnico em Ciência de Dados](https://github-readme-stats.vercel.app/api/pin/?username=igor-vignola&repo=Livrologia_TCC&bg_color=F7F9FCCC&border_color=CBD5E1&show_icons=true&icon_color=#6B9481&title_color=586069&text_color=##586069)](https://github.com/igor-vignola/Livrologia_TCC)
+
+<br>
+
+## 👨🏻‍💻 Meu Portfólio
+
+![Meu Portfólio](https://img.shields.io/badge/Portfolio-Click%20Here-6B9481?style=for-the-badge&logo=github)
+
+<br>
+
+## 📬 Contato  
+
+
+#### - <a href="https://www.linkedin.com/in/igor-vignola/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="igor" height="20" width="25" /></a> Linkedin
+
+#### - <a href = "https://mail.google.com/mail/u/0/?fs=1&to=igor.vignola@gmail.com&tf=cm"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" height="20" width="25" /></a> Gmail

@@ -39,7 +39,7 @@ Sou um entusiasta da área de dados com diversas certificações em Python, SQL,
 
 ## 🌟 Projeto em Destaque
 
-[![TCC - Curso Técnico em Ciência de Dados](https://github-readme-stats.vercel.app/api/pin/?username=igor-vignola&repo=Livrologia_TCC&bg_color=F7F9FCCC&border_color=CBD5E1&show_icons=true&icon_color=#6B9481&title_color=586069&text_color=##586069)](https://github.com/igor-vignola/Livrologia_TCC)
+[![TCC - Curso Técnico em Ciência de Dados](https://github-readme-stats.vercel.app/api/pin/?username=igor-vignola&repo=Livrologia_TCC&bg_color=0D1117&border_color=ffffff&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=586069)](https://github.com/igor-vignola/Livrologia_TCC)
 
 <br>
 

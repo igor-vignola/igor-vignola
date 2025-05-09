@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=155839&height=120&section=header"/>
 
 <h1 align="center">Olá 👋, Me chamo Igor Vignola</h1>
-<h3 align="center"><em>BI Analyst</em> | <em>Data Science Student at FIAP</em></h3>
+<h3 align="center"><em>Data Analyst</em> | <em>Data Science Student at FIAP</em></h3>
 
 ---
 

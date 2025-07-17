@@ -39,8 +39,9 @@ Sou um entusiasta da área de dados com diversas certificações em Python, SQL,
 
 ## 🌟 Projeto em Destaque
 
-[![TCC - Curso Técnico em Ciência de Dados](https://github-readme-stats.vercel.app/api/pin/?username=igor-vignola&repo=Customer-Segmentation&bg_color=212830&border_color=ffffff&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=e5e5e5)]([https://github.com/igor-vignola/Livrologia_TCC](https://github.com/igor-vignola/Customer-Segmentation/blob/main/user_clustering.ipynb))
+[![Customer Segmentation](https://github-readme-stats.vercel.app/api/pin/?username=igor-vignola&repo=Customer-Segmentation&bg_color=212830&border_color=ffffff&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=e5e5e5)](https://github.com/igor-vignola/Customer-Segmentation/blob/main/user_clustering.ipynb)
 <br>
+
 
 ## 👨🏻‍💻 Meu Portfólio
 

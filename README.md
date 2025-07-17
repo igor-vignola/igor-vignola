@@ -39,7 +39,29 @@ Sou um entusiasta da área de dados com diversas certificações em Python, SQL,
 
 ## 🌟 Projeto em Destaque
 
-[![TCC - Curso Técnico em Ciência de Dados](https://github-readme-stats.vercel.app/api/pin/?username=igor-vignola&repo=Livrologia_TCC&bg_color=0D1117&border_color=ffffff&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=586069)](https://github.com/igor-vignola/Livrologia_TCC)
+[![TCC - Curso Técnico em Ciência de Dados](E aí, pessoal! Queria compartilhar com vocês o resultado do meu primeiro projeto em Machine Learning, que fiz como parte de um Challenge da FIAP. O desafio era segmentar a base de clientes da ClickBus para ajudar a direcionar melhor as estratégias de marketing.
+
+🤔 O que eu fiz?
+Usei a análise RFM (Recência, Frequência e Valor) e o algoritmo K-Means para entender o comportamento de compra de mais de 580 mil clientes. O resultado foi a criação de 5 segmentos bem claros: Clientes Novos, Inativos, Comuns, Leais e Premium.
+
+📊 O que os dados me contaram?
+O insight mais forte foi que a base é composta majoritariamente por Clientes Novos (66,5%) e Inativos (31,4%). Isso mostra que, embora a ClickBus seja ótima em atrair gente nova, o grande desafio (e a oportunidade) está em fazer esses clientes comprarem de novo e não deixar que eles "esfriem".
+
+Por que isso importa?
+Sem segmentar, uma empresa acaba gastando dinheiro com quem não precisa de incentivo e ignorando quem está prestes a ir embora. Com essa análise, a ClickBus pode:
+✅ Criar campanhas de boas-vindas para engajar os novos.
+✅ Lançar ofertas de reativação para trazer os inativos de volta.
+✅ Desenvolver um programa VIP para mimar e reter os clientes Premium.
+
+O resultado é marketing mais inteligente, mais conversão e menos desperdício!
+
+Estou muito orgulhoso do resultado e animado para continuar aprendendo. O projeto completo, com todo o código e a análise, está no meu GitHub.
+
+🔗 Link para o Projeto no GitHub: [https://github.com/igor-vignola/Customer-Segmentation/blob/main/user_clustering.ipynb]
+
+Se tiverem qualquer feedback, vou adorar ouvir!
+
+#CiênciaDeDados #MachineLearning #PrimeiroProjeto #FIAP #CustomerSegmentation #Python #DataAnalysis #BusinessStrategy)
 
 <br>
 
